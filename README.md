@@ -1,2 +1,2 @@
 # FoodTruck
-A Windows Form App linked with a SQL Database.
+A Windows Form App Bound to an SQL Database.
